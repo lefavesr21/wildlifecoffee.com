@@ -1,0 +1,278 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wildlifecoffee.com" resolutions="1x" timestamp="1526589521849">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4148870112" ref="about:menu:index:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about:menu:index:contact"/>
+    <file name="about.css" crc="361888940" ref="about"/>
+    <file name="nomq_about.css" crc="3768883866" ref="about"/>
+    <file name="menu.css" crc="452191139" ref="menu"/>
+    <file name="index.css" crc="425916752" ref="index"/>
+    <file name="nomq_index.css" crc="3860996773" ref="index"/>
+    <file name="contact.css" crc="311239296" ref="contact"/>
+    <file name="nomq_contact.css" crc="3911908038" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:menu"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about:contact:menu"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:menu"/>
+    <file name="museconfig.js" crc="4163635208" ref="index:about:contact:menu"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about:contact:menu"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about:contact:menu"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:contact:menu"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact:menu"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:about:contact"/>
+    <file name="require.js" crc="4234670167" ref="index:about:contact:menu"/>
+    <file name="webpro.js" crc="3770351119" ref="about:contact"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="about"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="about"/>
+    <file name="touchswipe.js" crc="3912873526" ref="about"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u852.php" crc="452637974" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact:menu"/>
+    <file name="u125.png" crc="3891487942" ref="index:about:contact:menu"/>
+    <file name="u125-r.png" crc="233892693" ref="index:about:contact:menu"/>
+    <file name="u125-a.png" crc="170581050" ref="index:about:contact:menu"/>
+    <file name="u131.png" crc="6932754" ref="index:about:contact:menu"/>
+    <file name="u131-r.png" crc="3856695502" ref="index:about:contact:menu"/>
+    <file name="u131-a.png" crc="4243582401" ref="index:about:contact:menu"/>
+    <file name="u793.png" crc="457963372" ref="index:about:contact:menu"/>
+    <file name="u793-r.png" crc="5406403" ref="index:about:contact:menu"/>
+    <file name="u793-a.png" crc="4244735895" ref="index:about:contact:menu"/>
+    <file name="u169.png" crc="3897326732" ref="index:about:contact:menu"/>
+    <file name="u169-r.png" crc="192750639" ref="index:about:contact:menu"/>
+    <file name="u169-a.png" crc="4282242862" ref="index:about:contact:menu"/>
+    <file name="logowcwhite.svg" crc="258414169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logowcwhite_poster_.png" crc="91918850" ref="index"/>
+    <file name="u455-4.png" crc="4199244121" ref="index"/>
+    <file name="u622.png" crc="168532554" ref="index"/>
+    <file name="u459-4.png" crc="3985868196" ref="index"/>
+    <file name="u479-4.png" crc="4283045755" ref="index"/>
+    <file name="u484-4.png" crc="446868115" ref="index"/>
+    <file name="beverage-coffee-cup-12597-crop-u604.jpg" crc="3771295993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u598-4.png" crc="181802800" ref="index"/>
+    <file name="u614.png" crc="149563841" ref="index"/>
+    <file name="u614-r.png" crc="149563841" ref="index"/>
+    <file name="caffeine-coffee-cup-641038.jpg" crc="4255172871" ref="index:contact:menu">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="menu" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u455-42.png" crc="4077123102" ref="index"/>
+    <file name="u6222.png" crc="3962881295" ref="index"/>
+    <file name="u459-42.png" crc="4177127027" ref="index"/>
+    <file name="u479-42.png" crc="289846110" ref="index"/>
+    <file name="u484-42.png" crc="3820501956" ref="index"/>
+    <file name="beverage-coffee-cup-12597-crop-u6042.jpg" crc="3935284732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u598-42.png" crc="202153603" ref="index"/>
+    <file name="u6142.png" crc="219982718" ref="index"/>
+    <file name="u614-r2.png" crc="219982718" ref="index"/>
+    <file name="u455-43.png" crc="451317387" ref="index"/>
+    <file name="u6223.png" crc="4007493711" ref="index"/>
+    <file name="u459-43.png" crc="3920454201" ref="index"/>
+    <file name="beverage-coffee-cup-12597-crop-u6043.jpg" crc="3913227789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u479-43.png" crc="3935835199" ref="index"/>
+    <file name="u484-43.png" crc="296599591" ref="index"/>
+    <file name="u598-43.png" crc="4091748963" ref="index"/>
+    <file name="u6143.png" crc="320824899" ref="index"/>
+    <file name="u614-r3.png" crc="320824899" ref="index"/>
+    <file name="u455-44.png" crc="4283892363" ref="index"/>
+    <file name="u6224.png" crc="81512606" ref="index"/>
+    <file name="u459-44.png" crc="3764538804" ref="index"/>
+    <file name="u479-44.png" crc="3939392472" ref="index"/>
+    <file name="u484-44.png" crc="173278126" ref="index"/>
+    <file name="beverage-coffee-cup-12597-crop-u6044.jpg" crc="3847203036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u598-44.png" crc="143793762" ref="index"/>
+    <file name="u6144.png" crc="529333738" ref="index"/>
+    <file name="u614-r4.png" crc="529333738" ref="index"/>
+    <file name="u455-45.png" crc="90903167" ref="index"/>
+    <file name="u6225.png" crc="169906927" ref="index"/>
+    <file name="u459-45.png" crc="343934621" ref="index"/>
+    <file name="u479-45.png" crc="4274224612" ref="index"/>
+    <file name="u484-45.png" crc="3947341043" ref="index"/>
+    <file name="beverage-coffee-cup-12597-crop-u6045.jpg" crc="69347101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u598-45.png" crc="336654312" ref="index"/>
+    <file name="u6145.png" crc="533043330" ref="index"/>
+    <file name="u614-r5.png" crc="533043330" ref="index"/>
+    <file name="u455-46.png" crc="4211122565" ref="index"/>
+    <file name="u6226.png" crc="76567482" ref="index"/>
+    <file name="u459-46.png" crc="3845935929" ref="index"/>
+    <file name="u479-46.png" crc="133154638" ref="index"/>
+    <file name="u484-46.png" crc="398478041" ref="index"/>
+    <file name="beverage-coffee-cup-12597-crop-u6046.jpg" crc="3781345847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u598-46.png" crc="4061155506" ref="index"/>
+    <file name="u6146.png" crc="4145138371" ref="index"/>
+    <file name="u614-r6.png" crc="4145138371" ref="index"/>
+    <file name="u455-47.png" crc="188735164" ref="index"/>
+    <file name="u6227.png" crc="422851498" ref="index"/>
+    <file name="u459-47.png" crc="433067815" ref="index"/>
+    <file name="beverage-coffee-cup-12597-crop-u6047.jpg" crc="3937288430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u598-47.png" crc="319193198" ref="index"/>
+    <file name="u6147.png" crc="4043512002" ref="index"/>
+    <file name="u614-r7.png" crc="4043512002" ref="index"/>
+    <file name="u479-47.png" crc="28835478" ref="index"/>
+    <file name="u484-47.png" crc="3842911410" ref="index"/>
+    <file name="caffeine-coffee-cup-6410381280x986.jpg" crc="4120200511" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u455-48.png" crc="4130535752" ref="index"/>
+    <file name="u6228.png" crc="31755886" ref="index"/>
+    <file name="u459-48.png" crc="474174865" ref="index"/>
+    <file name="u479-48.png" crc="4079929728" ref="index"/>
+    <file name="u484-48.png" crc="132774088" ref="index"/>
+    <file name="beverage-coffee-cup-12597-crop-u6048.jpg" crc="104804788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u598-48.png" crc="329154637" ref="index"/>
+    <file name="u6148.png" crc="3905647980" ref="index"/>
+    <file name="u614-r8.png" crc="3905647980" ref="index"/>
+    <file name="caffeine-coffee-cup-641038970x747.jpg" crc="3871028146" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u455-49.png" crc="326980619" ref="index"/>
+    <file name="u6229.png" crc="372813742" ref="index"/>
+    <file name="u459-49.png" crc="241898795" ref="index"/>
+    <file name="beverage-coffee-cup-12597-crop-u6049.jpg" crc="163694929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u598-49.png" crc="400686394" ref="index"/>
+    <file name="u6149.png" crc="4223936509" ref="index"/>
+    <file name="u614-r9.png" crc="4223936509" ref="index"/>
+    <file name="u479-49.png" crc="3872964060" ref="index"/>
+    <file name="u484-49.png" crc="168356279" ref="index"/>
+    <file name="caffeine-coffee-cup-641038640x493.jpg" crc="4234418808" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lucas-alexander-15980-unsplash.jpg" crc="3882056012" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="carlos-cram-507768-unsplash.jpg" crc="3963111144" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="hans-veth-396921-unsplash.jpg" crc="3944973003" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="harsh-tank-279712-unsplash.jpg" crc="58092586" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jeremy-bishop-131042-unsplash.jpg" crc="3955731258" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="john-matychuk-285709-unsplash.jpg" crc="207938288" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="noah-holm-646583-unsplash.jpg" crc="3949330362" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="about"/>
+    <file name="u1436-4.png" crc="397504191" ref="about"/>
+    <file name="u1436-42.png" crc="3848558863" ref="about"/>
+    <file name="u910-4.png" crc="4111971273" ref="contact"/>
+    <file name="u911.png" crc="168532554" ref="contact"/>
+    <file name="u909-4.png" crc="3998834938" ref="contact"/>
+    <file name="u862.png" crc="212864771" ref="contact"/>
+    <file name="u862-ferr.png" crc="13040529" ref="contact"/>
+    <file name="u867.png" crc="343616845" ref="contact"/>
+    <file name="u867-ferr.png" crc="3975012595" ref="contact"/>
+    <file name="u859.png" crc="343663783" ref="contact"/>
+    <file name="u859-ferr.png" crc="213951196" ref="contact"/>
+    <file name="u910-42.png" crc="413993640" ref="contact"/>
+    <file name="u9112.png" crc="4136286485" ref="contact"/>
+    <file name="u909-42.png" crc="172798901" ref="contact"/>
+    <file name="u8622.png" crc="212864771" ref="contact"/>
+    <file name="u862-ferr2.png" crc="13040529" ref="contact"/>
+    <file name="u8672.png" crc="343616845" ref="contact"/>
+    <file name="u867-ferr2.png" crc="3975012595" ref="contact"/>
+    <file name="u8592.png" crc="343663783" ref="contact"/>
+    <file name="u859-ferr2.png" crc="213951196" ref="contact"/>
+    <file name="u910-43.png" crc="215980491" ref="contact"/>
+    <file name="u9113.png" crc="3843141896" ref="contact"/>
+    <file name="u909-43.png" crc="3920813635" ref="contact"/>
+    <file name="u8623.png" crc="212864771" ref="contact"/>
+    <file name="u862-ferr3.png" crc="13040529" ref="contact"/>
+    <file name="u8673.png" crc="343616845" ref="contact"/>
+    <file name="u867-ferr3.png" crc="3975012595" ref="contact"/>
+    <file name="u8593.png" crc="343663783" ref="contact"/>
+    <file name="u859-ferr3.png" crc="213951196" ref="contact"/>
+    <file name="u910-44.png" crc="71663920" ref="contact"/>
+    <file name="u9114.png" crc="219930171" ref="contact"/>
+    <file name="u909-44.png" crc="4113731885" ref="contact"/>
+    <file name="u8624.png" crc="212864771" ref="contact"/>
+    <file name="u862-ferr4.png" crc="13040529" ref="contact"/>
+    <file name="u8674.png" crc="343616845" ref="contact"/>
+    <file name="u867-ferr4.png" crc="3975012595" ref="contact"/>
+    <file name="u8594.png" crc="343663783" ref="contact"/>
+    <file name="u859-ferr4.png" crc="213951196" ref="contact"/>
+    <file name="u910-45.png" crc="4134275014" ref="contact"/>
+    <file name="u9115.png" crc="3785690102" ref="contact"/>
+    <file name="u909-45.png" crc="4183414867" ref="contact"/>
+    <file name="u8625.png" crc="212864771" ref="contact"/>
+    <file name="u862-ferr5.png" crc="13040529" ref="contact"/>
+    <file name="u8675.png" crc="343616845" ref="contact"/>
+    <file name="u867-ferr5.png" crc="3975012595" ref="contact"/>
+    <file name="u8595.png" crc="343663783" ref="contact"/>
+    <file name="u859-ferr5.png" crc="213951196" ref="contact"/>
+    <file name="u8626.png" crc="212864771" ref="contact"/>
+    <file name="u862-ferr6.png" crc="13040529" ref="contact"/>
+    <file name="u8676.png" crc="343616845" ref="contact"/>
+    <file name="u867-ferr6.png" crc="3975012595" ref="contact"/>
+    <file name="u8596.png" crc="343663783" ref="contact"/>
+    <file name="u859-ferr6.png" crc="213951196" ref="contact"/>
+    <file name="u910-46.png" crc="506438494" ref="contact"/>
+    <file name="u909-46.png" crc="4176058413" ref="contact"/>
+    <file name="u9116.png" crc="453975805" ref="contact"/>
+    <file name="u1623-4.png" crc="461450598" ref="menu"/>
+    <file name="u1611-29.png" crc="207350784" ref="menu"/>
+    <file name="u1635-4.png" crc="256176441" ref="menu"/>
+    <file name="u1617-10.png" crc="4194146279" ref="menu"/>
+    <file name="u1620-8.png" crc="362513586" ref="menu"/>
+    <file name="u1641-5.png" crc="3868974545" ref="menu"/>
+  </folder>
+  <file name="index.html" crc="350091042" seo="true" mt="1526589420068" redirect="true"/>
+  <file name="about.html" crc="203520782" seo="true" mt="1526443822610" redirect="true"/>
+  <file name="contact.html" crc="3915388590" seo="true" mt="1526589506289" redirect="true"/>
+  <file name="menu.html" crc="486440593" seo="true" mt="1526589419945" redirect="true"/>
+</manifest>
